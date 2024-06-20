@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tusabemod:block/hallowed_debris_top",
+    "side": "tusabemod:block/hallowed_debris_side"
+  }
+}
